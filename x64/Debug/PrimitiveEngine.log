@@ -1,0 +1,7 @@
+﻿  Animation.cpp
+  Game.cpp
+C:\Users\McAll\source\repos\PrimitiveEngine\PrimitiveEngine\Game.cpp(129,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\McAll\source\repos\PrimitiveEngine\PrimitiveEngine\main.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  PrimitiveEngine.vcxproj -> C:\Users\McAll\source\repos\PrimitiveEngine\x64\Debug\PrimitiveEngine.exe
