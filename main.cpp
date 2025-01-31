@@ -22,7 +22,6 @@ int main(int argc, char* argv[]) {
 	}
 
 	game.processEvents();
-
 	game.shutdown();
 
 	return 0;
